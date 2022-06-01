@@ -59,7 +59,7 @@
     "resize-observer-polyfill": "^1.5.1",
     "sass": "^1.43.4",
     "send": "^0.17.1",
-    "sharp": "^0.29.3",
+    "sharp": "^0.30.5",
     "stop-media-stream": "^1.0.0",
     "string-hash": "^1.1.3",
     "supports-webp": "^2.0.1",
